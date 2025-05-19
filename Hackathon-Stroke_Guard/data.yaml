@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Normal_Eyes', 'Normal_Mouth', 'Unnormal_Eyes', 'Unnormal_Mouth']
