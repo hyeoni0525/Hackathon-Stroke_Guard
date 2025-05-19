@@ -16,8 +16,6 @@
 
 6. Conclusion
 
-7. Reference
-
 -------
 # Overview
 <h2>StrokeGuard: 얼굴 표정을 통한 뇌졸중 전조 증상 감지 시스템</h2>
@@ -149,11 +147,13 @@ YOLO 기반 얼굴 표정 인식 기술을 활용하여 뇌졸중 전조 증상�
 
 ------
 # Results
-<img src="" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/aef919f7-a0f9-4f8e-b92c-b47a1b510fc3" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/861e20dd-8bf2-4db0-8661-a87727c79012" width="400" height="400"/>
 
 -------
 # Conclusion
 뇌졸중 피해 감소 :arrow_forward: 조기 발견 및 신속 대응으로 사망률 및 후유증 감소
-사회적 비용 절감 및 삶의 질 향상 :arrow_forward: 돌봄 인력 부족 문제, 의료 자원 한계 극복 
-범용성과 신뢰성 강화 :arrow_forward: 스마트 기기와 연동해 의료 기술 접근성과 편의성 향상
+
+사회적 비용 절감 및 삶의 질 향상 :arrow_forward: 돌봄 인력 부족 문제, 의료 자원 한계 극복
+
+온디바이스 AI 확장성 :arrow_forward: 스마트 기기와 연동해 의료 기술 접근성과 편의성 향상
